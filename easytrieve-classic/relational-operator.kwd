@@ -1,0 +1,10 @@
+﻿// relational-operator キーワード定義ファイル
+// CASE=False
+
+=
+EQ
+GQ
+GR
+LQ
+LS
+NQ
