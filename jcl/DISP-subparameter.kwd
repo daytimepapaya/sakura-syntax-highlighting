@@ -1,0 +1,12 @@
+﻿// DISP-subparameter キーワード定義ファイル
+// CASE=False
+
+CATLG
+DELETE
+KEEP
+MOD
+NEW
+OLD
+PASS
+SHR
+UNCATLG

@@ -1,0 +1,11 @@
+﻿// COND-operator キーワード定義ファイル
+// CASE=False
+
+EQ
+EVEN
+GE
+GT
+LE
+LT
+NE
+ONLY

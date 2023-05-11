@@ -1,0 +1,4 @@
+;Mode=RegexReplace
+
+\/\/([A-Za-z0-9\$\#@\.]+)\s+ JOB /// JOB[$1] /// JOB
+\/\/([A-Za-z0-9\$\#@\.]+)\s+ EXEC /// STEP[$1] /// STEP
